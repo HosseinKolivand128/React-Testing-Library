@@ -24,6 +24,9 @@ module.exports = {
  
   "globals": {
     "document": false
+  },
+  "rules": {
+    "react/prop-types": "off"
   }
 
 }
