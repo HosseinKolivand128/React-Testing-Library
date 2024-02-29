@@ -18,4 +18,12 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  "env": {
+    "jest": true
+ },
+ 
+  "globals": {
+    "document": false
+  }
+
 }
