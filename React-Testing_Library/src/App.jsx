@@ -1,8 +1,8 @@
 import './App.css';
-import Banner from './components/banner/banner';
+import Banner from './components/banner/Banner';
 import { Routes ,Route } from "react-router-dom"
-import TodoPage from './pages/todoPage/todoPage';
-import FollowersPage from './pages/followersPage/followersPage';
+import TodoPage from './pages/todoPage/TodoPage';
+import FollowersPage from './pages/followersPage/FollowersPage';
 
 function App() {
   return (

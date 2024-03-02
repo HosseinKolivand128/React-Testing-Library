@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react'
 import "./followersList.css"
-import axios from "axios"
 import { Link } from 'react-router-dom';
-
+// import axios from "axios";   
 export default function FollowersList() {
 
     const [followers, setFollowers] = useState([]);

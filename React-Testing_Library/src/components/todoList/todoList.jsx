@@ -1,4 +1,4 @@
-import TodoFooter from '../todoFooter/todoFooter'
+import TodoFooter from '../todoFooter/TodoFooter'
 import "./todoList.css"
 
 function TodoList({
