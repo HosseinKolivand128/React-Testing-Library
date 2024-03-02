@@ -1,5 +1,5 @@
 import { Container } from "react-bootstrap"
-import Followers from '../../components/followers/Followers'
+import Followers from '../../components/followers/followers'
 
 export default function FollowersPage() {
     return (

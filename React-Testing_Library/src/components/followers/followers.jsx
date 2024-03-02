@@ -1,5 +1,5 @@
-import FollowersList from '../followersList/FollowersList'
-import Header from '../header/Header'
+import FollowersList from '../followersList/followersList'
+import Header from '../header/header'
 import "./followers.css"
 
 export default function Followers() {
