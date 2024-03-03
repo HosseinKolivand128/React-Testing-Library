@@ -1,7 +1,7 @@
 import  { useState } from 'react'
-import AddInput from '../addInput/AddInput'
-import Header from '../header/Header'
-import TodoList from '../todoList/TodoList'
+import AddInput from '../addInput/addInput'
+import Header from '../header/header'
+import TodoList from '../todoList/todoList'
 import "./todo.css"
 
 function Todo() {
